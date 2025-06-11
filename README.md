@@ -1,0 +1,1 @@
+Фронтенд для <a href="https://github.com/round-squares/tech-task-for-interview/wiki">тестового задания</a>
